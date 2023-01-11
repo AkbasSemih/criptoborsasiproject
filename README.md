@@ -1,5 +1,5 @@
 ### Kripto  Borsası
-# Güncel kripto para fiyatları
+# React Native ile Güncel kripto para fiyatları
 
 **Kripto Borsası Android Uygulaması**
 
